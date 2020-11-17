@@ -13,6 +13,8 @@ aside {
     bottom: 0;
     width: var(--sidebar-width);
     background: blueviolet;
+    overflow: hidden;
+    transition: all 500ms;
 }
 
 main {
@@ -21,4 +23,13 @@ main {
     background: cadetblue;
     margin-left: var(--sidebar-width);
     padding: 1rem;
+    transition: all 500ms;
+}
+
+h3 {
+    transition: all 500ms;
+}
+
+button {
+    width: 3rem;
 }
