@@ -1,2 +1,5 @@
-# Sidebar
+# Något Annat!
 
+### Kom igång
+
+lorem ipsum......
